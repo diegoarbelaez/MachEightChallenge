@@ -31,6 +31,6 @@ function findPairs(numeros, suma) {
 
 //Iterate and print the pairs (Just for testint in Console)
 //Please uncomment this block to print values of pairs
-pairs.forEach(pair => {
-  console.log(`+ ${pair[0]},${pair[1]}`);
-});
+//pairs.forEach(pair => {
+//  console.log(`+ ${pair[0]},${pair[1]}`);
+//});
